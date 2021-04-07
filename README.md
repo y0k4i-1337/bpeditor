@@ -10,7 +10,7 @@ By now, this tool only covers the case described above, although it could be ext
 
 ## Usage
 
-```bash
+```
 ./bpeditor.sh -h
 Usage: ./bpeditor.sh [-o FILE] INPUT PROJECT
 

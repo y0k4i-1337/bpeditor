@@ -1,3 +1,7 @@
+# Archived
+Burp now supports loading a list of regex from a file to be used in TLS Pass Through.
+
+
 # bpeditor
 Batch editor for your Burp's project settings file
 
